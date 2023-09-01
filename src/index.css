@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* @import url(./fonts/fonts.css); */
+@layer base {
+  html {
+    font-family: "IranSans", system-ui, sans-serif;
+  }
+}
